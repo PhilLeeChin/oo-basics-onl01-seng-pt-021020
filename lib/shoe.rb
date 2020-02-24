@@ -8,6 +8,7 @@ class Shoe
   end
 
   def condition
+    puts "Your shoe is as good as new!"
   end
 end
 
