@@ -6,6 +6,9 @@ class Shoe
   def initialize(brand)
     @brand = brand
   end
+
+  def condition
+  end
 end
 
 Shoe.new("Nike")
